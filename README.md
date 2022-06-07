@@ -1,3 +1,7 @@
+Hi! As I am very commited to improve my web developer skills, I have not had enough time to finish that. I sincerely apologize.
+Paul
+
+
 - 👋 Hi, I’m @ojuarapaul
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
