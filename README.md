@@ -1,4 +1,4 @@
-Hi! As I am very commited to improve my web developer skills, I have not had enough time to finish this. I sincerely apologize.
+Hi! As I am very commited to improve my web developer skills, I have not had enough time to finish the read.me file. I sincerely apologize.
 Paul
 
 
