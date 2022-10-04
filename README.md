@@ -1,4 +1,4 @@
-A lil' bit about me
+# About me...
 
 Hi there! I live in Vancouver, Canada, and I'm on the road to becoming a Full Stack Web Developer.
 As I have an Architecture background, people suggest me to go take the UI/UX or Web Design path, but I think I'm more into code.
