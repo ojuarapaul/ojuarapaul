@@ -2,8 +2,8 @@ Hi! As I am very commited to improve my web developer skills, I have not had eno
 Paul
 
 
-- 👋 Hi, I’m @ojuarapaul
-- 👀 I’m interested in ...
+- 👋 Hi there, I am @ojuarapaul. I am a full stack web dev student.
+- 👀 I’m interested in any aspect of full stack development.
 - 🌱 I’m currently learning JavaScript / React / MongoDB / Python / APIs
 - 💞️ I’m looking to collaborate on any project I can be an useful asset.
 - 📫 How to reach me? Well, just email ojuarapaul@gmail.com
