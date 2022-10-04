@@ -5,7 +5,7 @@ Me in a few lines:
 
 - I am @ojuarapaul. As of 2022, I am a Full Stack Web Dev student. Take a look at my online portfolio: https://ojuarapaul.github.io/myportfolio/index.html.
 - I’m interested in any aspect of full stack development.
-I’m currently studying HTML | CSS | Javascript | JSON | jQuery | APIs | Node | React | MongoDB | Web3 | DApps | Python | Flask | Django. 
+I’m currently studying HTML | CSS | Javascript | Typescript | JSON | jQuery | APIs | Node | React | MongoDB | Web3 | DApps | Python | Flask | Django. 
 - This is not only a list with some random languages, libraries and frameworks. For example, I do not list PHP, Vue or Angular. or Java. I certainly will learn them afterwards, if I need to, but that's my priority list for now.
 - I’m looking to collaborate on any project so I can be a useful asset.
 - How to reach me? Well, just email ojuarapaul@gmail.com. It won't take long for you to get my reply ;-).
