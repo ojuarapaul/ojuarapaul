@@ -9,7 +9,7 @@ Me in a few lines:
 - I’m interested in all aspects of full stack development.
 - I’m currently proficient in HTML | CSS | Javascript | Python | and studying Typescript | JSON | jQuery | APIs | Node | React | MongoDB | Web3 | DApps | Flask | Django. 
 - This is not a list with some random languages, libraries and frameworks. For example, I do not mention PHP, Vue or Angular. Nor Java or C++. Useful as they are, I certainly will learn them afterwards, if I need to, but that's my priority list for now.
-- I’m looking to collaborate on any project if I can be a useful asset.
+- I’m looking to collaborate on any project if I can be a valuable asset.
 - How to reach me? Well, just email ojuarapaul@gmail.com. It won't take long for you to get my reply ;-).
 
 
